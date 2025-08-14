@@ -24,3 +24,20 @@ HF
 C6-C9 are "wired" in parallel  
   
 *Note: Low voltage/low current LEDs are required if substituting components.  
+
+
+
+LED1: 603 (RedLED/630nm/110mcd/60degVA/WaterClear/2mA/1.75V) - C2286 
+LED2: 603 (RedLED/630nm/110mcd/60degVA/WaterClear/2mA/1.75V) - C2286 
+C1: 805 10nF Capacitor - C57112 
+C2: 805 10nF Capacitor - C57112 
+C3: 805 10nF Capacitor - C57112 
+C4: 805 1nF Capacitor - C1588 
+C5: 805 1nF Capacitor - C1588 
+C6: 805 82pF Capacitor - C1604 
+C7: 805 Additional tuning cap if needed - C1588 (1nF as a default tuning option) 
+C8: 805 Additional tuning cap if needed - C1588 (1nF as a default tuning option) 
+C8: 805 Additional tuning cap if needed - C1588 (1nF as a default tuning option)
+
+
+
